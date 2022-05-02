@@ -31,8 +31,9 @@
    <p align="center">
       <img src="Pomodoro-Mobx-Provider.gif" width="400" alt="Pomodoro-Mobx-Provider">
    </p>
-   
+   <div>
      <a align="center"> O tempo do Cronometro foi modificado para reduzir o previrew </a>
+    </div>
 
 ---
 
