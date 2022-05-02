@@ -32,7 +32,7 @@
       <img src="Pomodoro-Mobx-Provider.gif" width="400" alt="Pomodoro-Mobx-Provider">
    </p>
    
-     <p align="center"> O tempo do Cronometro foi modificado para reduzir o previrew </p>
+     O tempo do Cronometro foi modificado para reduzir o previrew
 
 ---
 
