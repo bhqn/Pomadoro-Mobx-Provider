@@ -20,7 +20,7 @@
    <h2>📖 Sobre</h2>
 
 <p>
- Desenvolvimento  de um app do método Pomodoro guiado pela Cod3rs utilizando o Mobx e Provider para genrenciar o Estado da Aplicação.
+ Desenvolvimento  de um app do método Pomodoro guiado pela Cod3rs utilizando o Mobx e Provider para genrenciar o estado da aplicação.
 </p>
 
 ---
