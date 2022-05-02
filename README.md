@@ -1,8 +1,6 @@
-# Pomodoro-Mobx-Provider
-Estudo de App guiado pela Cod3rs utilizando Mobx e Provider
 
 
-# Portifolio Bernardo
+# Aplicativo Pomodoro Mobx/provider
 <p align="center">
     <img src="model/images/logoo.png" width="300" alt="Logo"/>
 </p>
@@ -24,7 +22,7 @@ Estudo de App guiado pela Cod3rs utilizando Mobx e Provider
    <h2>📖 Sobre</h2>
 
 <p>
-  Projeto de portifólio pessoal desenvolvido em Flutter/Dart visando aprimorar conhecimentos de front-end, utilização de package e consumo de arquivo em JSON.
+ Estudo de App guiado pela Cod3rs utilizando Mobx e Provider
 </p>
 
 ---
@@ -50,14 +48,12 @@ Estudo de App guiado pela Cod3rs utilizando Mobx e Provider
 <h2>🛠️ Funcionalidades e Tecnologias Estudadas</h2>
 
  - Packages Utilizados
-    - cupertino_icons: ^1.0.2 
-    - url_launcher: ^6.0.20
-    - http: ^0.13.4
-    - syncfusion_flutter_charts: ^20.1.47+1
-    - hex: ^0.2.0
-    - hexcolor: ^2.0.6
-    - font_awesome_flutter: ^10.1.0
-    - flutter_spinkit: ^5.1.0
+  mobx: ^2.0.1
+  flutter_mobx: ^2.0.5
+  cupertino_icons: ^1.0.2
+  provider: ^6.0.2
+  build_runner: ^2.0.6
+   mobx_codegen: ^2.0.2
 
 
 
@@ -69,14 +65,6 @@ Estudo de App guiado pela Cod3rs utilizando Mobx e Provider
     - Themes
     - Formulário integrado com E-mail do usuário para contato
 
-- Telas: 
-    - Splash (Tela inicial do app para transição)
-    - Home (Tela principal do app e que serve de fluxo inicial para as demais telas descritas abaixo)
-    - Sobre (View disponibilizando informações como dados pessoais, cursos e skills utilizando <strong>fusion_flutter_charts</strong> para construção de gráficos)
-    - Dev (View disponibilizando links de projetos antigos)
-    - Design (View disponibilizando artes aos moldes do Instagram)
-    - Contato (Formulário integrado com E-mail do usuário para envio de mensagens) 
-   </p>
 
 ---
 
