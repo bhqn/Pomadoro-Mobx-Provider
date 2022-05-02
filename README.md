@@ -27,9 +27,11 @@
 
 
 <h2>📱 Preview</h2>
+    <p align="center"> O tempo do Cronometro foi modificado para reduzir o previrew </p>
 
    <p align="center">
-      <img src="Pomodoro-Mobx-Provider.gif" width="400" alt="Demonstração portifólio">
+      
+      <img src="Pomodoro-Mobx-Provider.gif" width="400" alt="Pomodoro-Mobx-Provider">
    </p>
 
 ---
