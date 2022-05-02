@@ -29,7 +29,7 @@
 <h2>📱 Preview</h2>
 
    <p align="center">
-      <img src="raw/giftela.gif" width="400" alt="Demonstração portifólio">
+      <img src="Pomodoro-Mobx-Provider.gif" width="400" alt="Demonstração portifólio">
    </p>
 
 ---
