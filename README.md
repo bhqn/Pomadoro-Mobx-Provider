@@ -2,7 +2,7 @@
 
 # Aplicativo Pomodoro Mobx/provider
 <p align="center">
-    <img src="model/images/logoo.png" width="300" alt="Logo"/>
+    <img src="logoo.png" width="300" alt="Logo"/>
 </p>
 
 
