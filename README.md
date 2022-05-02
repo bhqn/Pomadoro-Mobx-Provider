@@ -1,6 +1,6 @@
 
 
-# Aplicativo Pomodoro Mobx/provider
+# Aplicativo Pomodoro Mobx/Provider
 <p align="center">
     <img src="logoo.png" width="300" alt="Logo"/>
 </p>
@@ -27,12 +27,12 @@
 
 
 <h2>📱 Preview</h2>
-    <p align="center"> O tempo do Cronometro foi modificado para reduzir o previrew </p>
 
    <p align="center">
-      
       <img src="Pomodoro-Mobx-Provider.gif" width="400" alt="Pomodoro-Mobx-Provider">
    </p>
+   
+     <p align="center"> O tempo do Cronometro foi modificado para reduzir o previrew </p>
 
 ---
 
