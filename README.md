@@ -63,7 +63,7 @@
    - Clone o repositório:
    $ git clone https://github.com/bhqn/Pomodoro-Mobx-Provider Pomodoro-Mobx-Provider
    - Entre no diretório:
-   $ cd portifolio-bernardo
+   $ cd Pomodoro-Mobx-Provider
    - Instale as dependências:
    $ flutter pub get
    - Execute:
